@@ -1,11 +1,3 @@
-¿No te funciona el comando code en tu terminal?
-
-Abre Visual Studio Code
-Presiona cmd + shift + p ó si estás en windows ctrl + shift + p
-Busca una opción que diga lo siguiente: Shell Command: Install 'code' command in $PATH
-Selecciónala
-Y listo, podrás utilizar dicho comando.
-
 comandos de git aprendidos en esta clase:
 
 git init: lo usamos para determinar la carpeta en la que vamos a trabajar.
@@ -25,3 +17,5 @@ git config --global user.name: cambia de manera global el nombre del usuario, se
 git config --global user.email: cambia de manera global el email del usuario, seguidamente ponemos entre comillas nuestro nombre.
 
 git log: se usa para ver la historia de nuestros archivos, los commits, el usuario que lo cambió, cuando se realizaron los cambios etc. seguidamente ponemos el nombre de nuestro archivo.
+
+El comando git show nos muestra los cambios que han existido sobre un archivo y es muy útil para detectar cuándo se produjeron ciertos cambios, qué se rompió y cómo lo podemos solucionar. Pero podemos ser más detallados.
