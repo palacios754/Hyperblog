@@ -431,12 +431,3 @@ git log -S "palabrabuscar"
   git blame --help
   
   git branch -r => Ramas remotas en el servidor
-  ```
-
-  
-
-> #### Created BY AugusTCaceresSuarez :fire: :slightly_smiling_face:
->
-> [August casuarz](https://twitter.com/ACasuarz) 
->
-> [My Github](https://github.com/UtoSkydive)
